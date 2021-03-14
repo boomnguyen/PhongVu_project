@@ -1,3 +1,12 @@
 .main__sale_product {
-    display: flex;
+    margin: auto;
+    width: 92%;
+    height: 570px;
+    position: relative;
+
+    img {
+        height: 100%;
+        width: 100%;
+        border-radius: 20px;
+    }
 }

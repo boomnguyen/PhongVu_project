@@ -1,19 +1,15 @@
 import React from 'react';
 
 import './SaleProduct.scss'
-import CardProductBigSize from '../../../components/CardProduct/CardProductBigSize';
-import cardBigSize1 from '../../../assets/images/cart_product/cart_product_big_size/asus-1.jpg'
-import cardBigSize2 from '../../../assets/images/cart_product/cart_product_big_size/asus-2.jpg'
-import cardBigSize3 from '../../../assets/images/cart_product/cart_product_big_size/asus-3.jpg'
-import cardBigSize4 from '../../../assets/images/cart_product/cart_product_big_size/asus-4.jpg'
+import SaleProductItem from './SaleProductItem/SaleProductItem';
+import bgImg from '../../../assets/images/cart_product/cart_product_big_size/bg-cart-big-size.jpg'
+
 
 const SaleProduct = () => {
     return (
         <div className="main__sale_product">
-            <CardProductBigSize url={cardBigSize1} />
-            <CardProductBigSize url={cardBigSize2} />
-            <CardProductBigSize url={cardBigSize3} />
-            <CardProductBigSize url={cardBigSize4} />
+            <img src={bgImg} alt="" />
+            <SaleProductItem />
         </div>
     )
 }
