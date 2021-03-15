@@ -7,7 +7,7 @@ import cardBigSize2 from '../../../../assets/images/cart_product/cart_product_bi
 import cardBigSize3 from '../../../../assets/images/cart_product/cart_product_big_size/asus-3.jpg'
 import cardBigSize4 from '../../../../assets/images/cart_product/cart_product_big_size/asus-4.jpg'
 
-const SaleproductItem = () => {
+const SaleproductItem = (props) => {
     return (
         <div className="sale_product-item">
             <CardProductBigSize url={cardBigSize1} />

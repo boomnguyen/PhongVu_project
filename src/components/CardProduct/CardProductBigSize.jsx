@@ -21,6 +21,7 @@ const CartProductBigSize = (props) => {
                     <span className="oldPrice">28.990.000đ</span>
                     <span className="discount_percent">7%</span>
                 </div>
+                <GiftCard url={gift1} />
             </Fragment>
         )
     }
@@ -32,7 +33,6 @@ const CartProductBigSize = (props) => {
                 <span className="card_big_size-name">Laptop ASUS Vivobook E210MA GJ083T ( 11.6" HD/Intel Celeron N4020/4GB/128GB SSD/Windows 10 Home SL 64-bit/1kg)</span>
                 <ButtonContact show={showBtn} />
                 {price}
-                <GiftCard url={gift1} />
             </div>
         </div>
     )

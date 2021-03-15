@@ -1,15 +1,25 @@
-import React from 'react';
+import React, { useState } from 'react';
 
 import './SaleProduct.scss'
 import SaleProductItem from './SaleProductItem/SaleProductItem';
-import bgImg from '../../../assets/images/cart_product/cart_product_big_size/bg-cart-big-size.jpg'
+import ButtonSwitch from './ButtonSwitch/ButtonSwitch';
+import WrapCard from './WrapCard/WrapCard';
 
 
 const SaleProduct = () => {
+    const [clickedBtn, setClickedBtn] = useState(true)
+
+    const handleClickedBtn = (value) => {
+        setClickedBtn(value)
+        console.log(value);
+    }
+
     return (
         <div className="main__sale_product">
-            <img src={bgImg} alt="" />
-            <SaleProductItem />
+            <WrapCard isClickedBtn={clickedBtn}>
+                <ButtonSwitch isClickedBtn={handleClickedBtn} />
+                <SaleProductItem isClickedBtn />
+            </WrapCard>
         </div>
     )
 }

@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import './BannerAdsRight.scss'
 
 import ProductItemAds from '../../../../components/ProductItemAds/ProductItemAdsSquare/ProductItemAds';
 import imgAds1 from '../../../../assets/images/product_item/square/main_product_item-ads-news.webp';
