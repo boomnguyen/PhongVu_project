@@ -2,6 +2,37 @@
 
 .main {
     width: 100%;
-    height: 2000px;
+    height: 5000px;
     background-color: $bg-page-primary;
+
+    .main__wrap-bigCardWrap {
+        display: flex;
+        width: 90%;
+        margin: auto;
+
+        .main__bigCardWrapProduct {
+            margin-bottom: 16px;
+        }
+
+        .main__bigCardWrapProduct:nth-child(1) {
+            margin-right: 16px;
+        }
+    }
+
+    .main__wrap-productItemHorizontalBigger {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 90%;
+        margin: auto;
+
+        .main__banner__product-item-adsHorizon {
+            width: 32%;
+            .product-item-adsHorizon-wrapimg {
+                img {
+                    width: 100%;
+                }
+            }
+        }
+    }
 }

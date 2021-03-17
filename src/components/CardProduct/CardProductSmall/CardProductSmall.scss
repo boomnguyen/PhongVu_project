@@ -1,0 +1,33 @@
+@import "../../../assets/variable/variable";
+
+.card-product-small {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+
+    h5 {
+        font-size: 1.6rem;
+        color: $text-main-color-2;
+    }
+
+    span {
+        font-size: 1.3rem;
+    }
+
+    .card-product-small-wrap-img {
+        overflow: hidden;
+
+        img {
+            object-fit: contain;
+            width: 180px;
+            height: 100px;
+
+            &:hover {
+                transition: all 0.8s;
+                transform: scale(1.04);
+                cursor: pointer;
+            }
+        }
+    }
+}

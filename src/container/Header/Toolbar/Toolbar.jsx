@@ -1,8 +1,7 @@
 import React from 'react';
 import './Toolbar.scss';
 
-import logo from '../../../assets/images/logo-full.svg'
-
+import logo from '../../../assets/images/logo-full.svg';
 const Toolbar = (props) => {
     return (
         <div className="header__toolbar">

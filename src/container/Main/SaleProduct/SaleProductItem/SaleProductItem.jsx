@@ -1,7 +1,7 @@
 import React from 'react';
 import './SaleProductItem.scss'
 
-import CardProductBigSize from '../../../../components/CardProduct/CardProductBigSize';
+import CardProductBigSize from '../../../../components/CardProduct/CardProductBigSize/CardProductBigSize';
 import cardBigSize1 from '../../../../assets/images/cart_product/cart_product_big_size/asus-1.jpg'
 import cardBigSize2 from '../../../../assets/images/cart_product/cart_product_big_size/asus-2.jpg'
 import cardBigSize3 from '../../../../assets/images/cart_product/cart_product_big_size/asus-3.jpg'

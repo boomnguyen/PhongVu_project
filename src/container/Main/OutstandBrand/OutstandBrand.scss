@@ -8,6 +8,7 @@
     background-color: $bg-color-primary;
     padding: 16px;
     position: relative;
+    margin-bottom: 20px;
 
     h4 {
         margin-bottom: 16px;
@@ -16,7 +17,7 @@
         &::after {
             content: "";
             width: 3px;
-            height: 20px;
+            height: 22px;
             background-color: $bg-near-title;
             position: absolute;
             top: 6%;
