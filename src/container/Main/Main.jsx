@@ -11,6 +11,7 @@ import ImgBannerFull1 from '../../assets/images/banner-full-width.webp'
 import OutstandBrand from './OutstandBrand/OutstandBrand';
 import BigCardWrapProduct from '../../components/BigCardWrapProduct/BigCardWrapProduct';
 import ProductItemAdsHorizontal from '../../components/ProductItemAds/ProductitemAdsHorizontal/ProductItemAdsHorizontal';
+import BestSellProduct from './BestSellProduct/BestSellProduct';
 
 
 const Main = () => {
@@ -43,7 +44,7 @@ const Main = () => {
                 <ProductItemAdsHorizontal url={'https://lh3.googleusercontent.com/UHTkZY7ZRMi2_SuSOlfz9vYZBx8FW07rZuqWpIMi9nZ0MawrMEhD_6h7mYal6a8TIGywt6D1e04EFVTHcWyvwdnVIEq1gwUVnA=w411-rw'} />
                 <ProductItemAdsHorizontal url={'https://lh3.googleusercontent.com/I5k0upfhpdhDh6CpvAagvvZjBAuz39gUkzGXn9qyJ6Y9EI9NUoc_6ersAtgdbD0hVjVHd8rVqfRzQ8DV1mY-rLM57OSIxHE=w411-rw'} />
             </div>
-
+            <BestSellProduct />
         </div>
     )
 }

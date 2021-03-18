@@ -1,0 +1,58 @@
+@import "../../../assets/variable/variable";
+
+.main__bestSellProduct {
+    width: 91%;
+    min-height: 512px;
+    margin: auto;
+    background-image: url("https://lh3.googleusercontent.com/DoLWLD77f50zFdCXGhcRZBqskJ3g7M2SDUTydEu4Aiks6C9Bj6aXpjrMqQ3xCHBN8f5aBvPAhjJYpCVzN5E=w1184");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 20px;
+    position: relative;
+    border-radius: 10px;
+
+    .besSellProduct-wrap-name {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 96%;
+        margin: 0 auto 16px;
+        justify-content: space-between;
+        z-index: 20;
+        h4 {
+            font-size: 2rem;
+            color: $text-white-color;
+
+            &::after {
+                content: "";
+                width: 3px;
+                height: 20px;
+                background-color: $bg-page-primary;
+                position: absolute;
+                top: 22px;
+                left: 7px;
+                z-index: 20;
+            }
+        }
+
+        p {
+            color: $text-white-color;
+            font-size: 1.4rem;
+            margin: 0;
+        }
+    }
+
+    .besSellProduct-wrap-product {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        width: 100%;
+        margin: auto;
+        padding: 12px 16px 0;
+        border-top: 1px solid $bg-page-primary;
+
+        .card_product_big_size {
+            margin-right: 0;
+        }
+    }
+}

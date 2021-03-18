@@ -7,7 +7,7 @@ const BigCardWrapProduct = () => {
         <div className="main__bigCardWrapProduct">
             <div className="bigCardWrapProduct-name">
                 <h4>LAPTOP - MACBOOK</h4>
-                <p>Xem tất cả <i class="fas fa-chevron-right"></i></p>
+                <p>Xem tất cả <i className="fas fa-chevron-right"></i></p>
             </div>
             <div className="bigCardWrapProduct-product-item">
                 <div className="wrap-img">
