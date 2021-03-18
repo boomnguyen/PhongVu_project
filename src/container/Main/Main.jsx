@@ -12,6 +12,7 @@ import OutstandBrand from './OutstandBrand/OutstandBrand';
 import BigCardWrapProduct from '../../components/BigCardWrapProduct/BigCardWrapProduct';
 import ProductItemAdsHorizontal from '../../components/ProductItemAds/ProductitemAdsHorizontal/ProductItemAdsHorizontal';
 import BestSellProduct from './BestSellProduct/BestSellProduct';
+import ProductForU from './ProductForU/ProductForU';
 
 
 const Main = () => {
@@ -45,6 +46,7 @@ const Main = () => {
                 <ProductItemAdsHorizontal url={'https://lh3.googleusercontent.com/I5k0upfhpdhDh6CpvAagvvZjBAuz39gUkzGXn9qyJ6Y9EI9NUoc_6ersAtgdbD0hVjVHd8rVqfRzQ8DV1mY-rLM57OSIxHE=w411-rw'} />
             </div>
             <BestSellProduct />
+            <ProductForU />
         </div>
     )
 }

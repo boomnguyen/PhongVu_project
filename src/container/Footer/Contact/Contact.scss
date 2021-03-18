@@ -1,0 +1,20 @@
+.footer__contact {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+
+    .footer__contact-methodPayment {
+        ul {
+            list-style: none;
+
+            i {
+                font-size: 1.6rem;
+                margin-right: 8px;
+            }
+        }
+    }
+
+    .footer__contact-listPayment {
+    }
+}
