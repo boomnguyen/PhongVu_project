@@ -1,14 +1,16 @@
 import React from 'react'
-import Contact from './Contact/Contact'
+import Address from './Address/Address'
 
 import './Footer.scss'
 import Info from './Info/Info'
+import Payment from './Payment/Payment'
 
 const Footer = () => {
     return (
         <div className="footer">
             <Info />
-            <Contact />
+            <Payment />
+            <Address />
         </div>
     )
 }
