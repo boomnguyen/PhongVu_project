@@ -1,16 +1,20 @@
 import React from 'react';
 import './App.scss';
-import Footer from './container/Footer/Footer';
-import Header from './container/Header/Header';
-import Main from './container/Main/Main';
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+
+import HomePage from './pages/Home/HomePage';
+import ProductDetail from './pages/ProductDetail/ProductDetail';
 
 const App = () => {
   return (
-    <div className="app">
-      <Header />
-      <Main />
-      <Footer />
-    </div>
+    <Router>
+      <div className="app">
+        <Switch>
+          <Route path="/" exact component={HomePage} />
+          <Route path="/productDetail" exact component={ProductDetail} />
+        </Switch>
+      </div>
+    </Router>
   )
 }
 

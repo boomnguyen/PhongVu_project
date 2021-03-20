@@ -13,11 +13,14 @@ import BigCardWrapProduct from '../../components/BigCardWrapProduct/BigCardWrapP
 import ProductItemAdsHorizontal from '../../components/ProductItemAds/ProductitemAdsHorizontal/ProductItemAdsHorizontal';
 import BestSellProduct from './BestSellProduct/BestSellProduct';
 import ProductForU from './ProductForU/ProductForU';
+import { Link } from 'react-router-dom';
+import Toolbar from '../Header/Toolbar/Toolbar';
 
 
 const Main = () => {
     return (
         <div className="main">
+            <Toolbar />
             <Banner>
                 <BannerMenuLeft />
                 <BannerAdsRight />
@@ -31,7 +34,9 @@ const Main = () => {
                 <BigCardWrapProduct />
                 <BigCardWrapProduct />
             </div>
-            <BannerFullWidth url={'https://lh3.googleusercontent.com/d5vzKrBxFEswNHhqJ9pWKpZvFc90_0tyjDNXjY3FpGzUVZWDt4n1YhXxjOxgu0kHFvqYOrfojaHBKYonMa9M3gF7r1YoYAWD=w1232-rw'} />
+            <Link to="/productDetail">
+                <BannerFullWidth url={'https://lh3.googleusercontent.com/d5vzKrBxFEswNHhqJ9pWKpZvFc90_0tyjDNXjY3FpGzUVZWDt4n1YhXxjOxgu0kHFvqYOrfojaHBKYonMa9M3gF7r1YoYAWD=w1232-rw'} />
+            </Link>
             <div className="main__wrap-bigCardWrap">
                 <BigCardWrapProduct />
                 <BigCardWrapProduct />

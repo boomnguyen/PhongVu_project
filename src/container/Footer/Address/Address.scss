@@ -12,6 +12,12 @@
         margin: auto;
         .footer__address-name {
             width: 40%;
+
+            h3 {
+                text-transform: uppercase;
+                font-size: 1.5rem;
+            }
+
             p {
                 font-size: 1.3rem;
                 margin-top: 16px;

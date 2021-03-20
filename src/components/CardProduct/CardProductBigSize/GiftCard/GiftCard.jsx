@@ -2,12 +2,21 @@ import React from 'react';
 import './GiftCard.scss'
 
 const GiftCard = (props) => {
-    return (
-        <div className="card_product-gift">
-            <span>QUÀ TẶNG</span>
-            <img className="gift-img" src={props.url} alt="" />
-        </div>
-    )
+    let gift = null
+    if (props.url) {
+        const arrGift = props.url;
+        gift = (
+            <div className="card_product-gift">
+                {arrGift.length === 0 ? null : <span>QUÀ TẶNG</span>}
+                {arrGift.map(item => {
+                    return <img className="gift-img" src={item} alt="" />
+                })}
+            </div>
+        )
+    }
+
+    return gift
+
 }
 
 export default GiftCard

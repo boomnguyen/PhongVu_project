@@ -1,0 +1,236 @@
+{
+    "laptops": [
+        {
+            "id": 1,
+            "name": "Laptop LG Gram 14ZD90N-V.AX55A5 (14' FHD/i5-1035G7/8GB/512GB SSD/Intel Iris Plus/Free DOS/1kg)",
+            "price": "25.990.000đ",
+            "discountPrice": "30.500.000đ",
+            "discount": "15%",
+            "gift": [],
+            "image": "https://lh3.googleusercontent.com/G7vI9TxoB9XeeUgsctYjLoc1icM4GGZzwpV-l-Iupze2EGDXbiGl0B-IhV0UFaO8oBlGfX3yOVoEq_GNEQ",
+            "image-full": [
+                "https://lh3.googleusercontent.com/G7vI9TxoB9XeeUgsctYjLoc1icM4GGZzwpV-l-Iupze2EGDXbiGl0B-IhV0UFaO8oBlGfX3yOVoEq_GNEQ=w1000-rw",
+                "https://lh3.googleusercontent.com/Ht8naOmiLkEe3d6ZvAhuvenxvm3HTjJSVivOCKwpMCJczWaUGm308vs8Ee_NJM0paxi48S7conYeEzpc8eE8=w1000-rw",
+                "https://lh3.googleusercontent.com/yN3jrLaUBC0iOF1s7-SjXF7ICKIH96g0WrATAgbXNNDselmoLQANWnUlMA3CMuj0kTyjm3gmTEpqYu-BP-0=w1000-rw",
+                "https://lh3.googleusercontent.com/3eDsR6liuw60yv0aZwrhARSYncehmu2OkZYdC5ZmYvtb1fOqdD1aL6GTGWgxXGn13bWZPEgzez6O871LDg4=w1000-rw",
+                "https://lh3.googleusercontent.com/9hwyutjcROiP8_s5Jdu8wrOEBG7q4s__1SfiQv6ivFu0eBUlxtIau6-2ldGJ0u_eFQAbLoxnNDiFlMbEnQ=w1000-rw",
+                "https://lh3.googleusercontent.com/3vrDUIzbA6pYnwX7geznYlYfp08_RPt37QsKpPv5y7K1aW94AxmNlks_HB3_B-YIHnB2_bu2OmsTxqngRUw=w1000-rw",
+                "https://lh3.googleusercontent.com/-wNb4CRjCJQqguP-7wxXPOcLUiV0IXMshRSl616aq5XWXlJr4SndkHPU-amkGnlueUSee2cuVEXzZqxfBbI=w1000-rw"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Laptop LG Gram 14ZD90N-V.AX53A5 (14' FHD/i5-1035G7/8GB/256GB SSD/Intel Iris Plus/Free DOS/1kg)",
+            "price": "26.490.000đ",
+            "discountPrice": "29.379.000đ",
+            "discount": "10%",
+            "gift": [
+                "https://lh3.googleusercontent.com/8ID_TJiaE6lxjCUClu05nNjr-KBN0kjf2rs2sAkDuXn8WQofoEl2M8R6VjdGQ1YIW2qf_1sZwrCjQ-6hsA",
+                "https://lh3.googleusercontent.com/pABKMunuEataCnPuhBhogJzZ_wQ69kFSfT2U8tT4L5Xq2LUkgjGuuamKoSX0DVafkW3a3am0MpDCPqNOxQ"
+            ],
+            "image": "https://lh3.googleusercontent.com/pXEfl36FjjToe8PWNl1SA9nCw2AJKZKMr-86xdMxAGIvypqPf3U0XyEQIRbU-chvf401KCJWyhtb0cLV8uc",
+            "image-full": [
+                "https://lh3.googleusercontent.com/pXEfl36FjjToe8PWNl1SA9nCw2AJKZKMr-86xdMxAGIvypqPf3U0XyEQIRbU-chvf401KCJWyhtb0cLV8uc=w1000-rw",
+                "https://lh3.googleusercontent.com/jm3XHVs5BR7b4MAmBwcYxjhJtB1BqdNFa9y0ibNRp-xRRxVqQW3aW5phON3VFMzV10tNlwlzGulTslPbVw=w1000-rw",
+                "https://lh3.googleusercontent.com/ZvRnAMQm0V_8Cs7HNIFrs77OYqf1JMYZ564WA62kSiB_DDK7eTMXUpoPeuZcnrp8M7pJ1ndVWWY1tWjGLQiC=w1000-rw",
+                "https://lh3.googleusercontent.com/aFvQkRS_emHoSyVRJqyYSTTQn1zRzbePCGkMY6jEgqtAQyndkVzvf_4BnQDt6FyhAt942NWkrpoTPnE-5VuQ=w1000-rw",
+                "https://lh3.googleusercontent.com/JsSdRqZhgHsIT4pGz2Bud4xgUXbjqzJhzb4mtMfSf2J3e1RERodFw0EUNWl0MnA9Jm-eMqmor9wvidOA6w=w1000-rw",
+                "https://lh3.googleusercontent.com/Jolg5IBkhAYJ6zCIGrfu9h6k4SvbvgQxUkq_YEFwWF3-NspgOrj6eZXEBi2eCupYk1haOKnEAs51cMCoaKo=w1000-rw",
+                "https://lh3.googleusercontent.com/55IO1gxvLahwOxO1RqoxCdaX2JNoj6Rvymhp1A_alvAQWluZuGRm1vMl_sJVjcWS2JwcjZt0OzFGgWqsyHs=w1000-rw"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Laptop ACER Nitro 5 AN515-44-R9JM (NH.Q9MSV.003) ( 15.6' Full HD/ 144Hz/AMD Ryzen 5 4600H/8GB/512GB SSD/NVIDIA GeForce GTX 1650/Windows 10 Home 64-bit/2.2kg)",
+            "price": "19.990.000đ",
+            "discountPrice": "20.990.000đ",
+            "discount": "5%",
+            "gift": [
+                "https://lh3.googleusercontent.com/8ID_TJiaE6lxjCUClu05nNjr-KBN0kjf2rs2sAkDuXn8WQofoEl2M8R6VjdGQ1YIW2qf_1sZwrCjQ-6hsA",
+                "https://lh3.googleusercontent.com/pABKMunuEataCnPuhBhogJzZ_wQ69kFSfT2U8tT4L5Xq2LUkgjGuuamKoSX0DVafkW3a3am0MpDCPqNOxQ"
+            ],
+            "image": "https://lh3.googleusercontent.com/dPcaQErI30DEt5QBEwfYB9Hu2e4g4TsQTp1qfLWUjzr0_dJPWby2kCHIBJos8OiPAOyJO6Kvws1-Sgu6dPnb2HwPqh7_RpMauQ",
+            "image-full": [
+                "https://lh3.googleusercontent.com/dPcaQErI30DEt5QBEwfYB9Hu2e4g4TsQTp1qfLWUjzr0_dJPWby2kCHIBJos8OiPAOyJO6Kvws1-Sgu6dPnb2HwPqh7_RpMauQ=w1000-rw",
+                "https://lh3.googleusercontent.com/SmjIefcXiPFGDeTdv7__rWI41JtZ57w0zdl560SAKbRqAPoSG9LLYb_GewT8XJrvKNaBHWnFU0XioCyhGUx1pvu25eQh_q-Z=w1000-rw",
+                "https://lh3.googleusercontent.com/XCKFozl6zhbjXzmQQx_65miCaNDCG-Z2mKHAcnzZizeU0tonu267VQUQabDV-qGbkYZASOaoYdUg4ACdCTAeutxmcJzcjzACgg=w1000-rw",
+                "https://lh3.googleusercontent.com/CPDICNqJBycpucHv_C36rRm5bw7s-_nbvkScQouXVpvrYnlc860YPqTEaJwwkxZcX44Te6wP1W0VhrAWJ0CfM52olxgQip5IvQ=w1000-rw",
+                "https://lh3.googleusercontent.com/vx6k8v28OBkAudYk_bD9sG5zjaU9bQZEGHe7ywIyb_SIiE5ejy7qAKrMaMpVLETRJrrBfh0VzItRThtDe41YqzdWHHhlyx4=w1000-rw",
+                "https://lh3.googleusercontent.com/o12CcJjHQrUsYs5yhUg-EV_NhIRGPA613TQLZo6LtLaoB46PkS66veGrsZhSrUAYPE3ftEKjAbxYuwthjMWgGb0SLb3C3aU=w1000-rw",
+                "https://lh3.googleusercontent.com/mTDqDBEPlHOs6hFLlgi5yhwADXm5ruljz2dnWjXpGtsP5xaQhZ4xDnjcQh_2IZL2hDyDcpuMjfb6jMvoScGQZiXioIOhpW19Ow=w1000-rw",
+                "https://lh3.googleusercontent.com/UgBQRd-2Oo6Mi9ZNHgEueX0HdgGm-jepT72B1j4gS-rTAIGrLgx-JArI0l9ze2pJWeKSXgqwSwNhpBQJaMuOB63-Clp6FfAW=w1000-rw"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Laptop ACER Nitro 5 AN515-55-72P6 (NH.QBNSV.004) ( 15.6' Full HD/ 144Hz/Intel Core i7-10750H/8GB/512GB SSD/NVIDIA GeForce GTX 1650/Windows 10 Home 64-bit/2.3kg)",
+            "price": "25.390.000đ",
+            "discountPrice": "25.990.000đ",
+            "discount": "2%",
+            "gift": [
+                "https://lh3.googleusercontent.com/pQw0whszQzQrmNSJqaeVXZ3nci31aebNiHTbVVsuxx6_ItdETz7J6A8F_xdMKmGJCqrJJsDdVmCrF33QuaTphnyEZV_N4ZY6Ng",
+                "https://lh3.googleusercontent.com/Iz12vfXqgTg5pi9bet4qclbtbwTB3TFIValC8W2pvmlGHnCZ937GjdJVnfARkopEtmAfJBNvDzpIC-wNPaggiyrmcdpcogD3"
+            ],
+            "image": "https://lh3.googleusercontent.com/dPcaQErI30DEt5QBEwfYB9Hu2e4g4TsQTp1qfLWUjzr0_dJPWby2kCHIBJos8OiPAOyJO6Kvws1-Sgu6dPnb2HwPqh7_RpMauQ",
+            "image-full": [
+                "https://lh3.googleusercontent.com/dPcaQErI30DEt5QBEwfYB9Hu2e4g4TsQTp1qfLWUjzr0_dJPWby2kCHIBJos8OiPAOyJO6Kvws1-Sgu6dPnb2HwPqh7_RpMauQ=w1000-rw",
+                "https://lh3.googleusercontent.com/SmjIefcXiPFGDeTdv7__rWI41JtZ57w0zdl560SAKbRqAPoSG9LLYb_GewT8XJrvKNaBHWnFU0XioCyhGUx1pvu25eQh_q-Z=w1000-rw",
+                "https://lh3.googleusercontent.com/XCKFozl6zhbjXzmQQx_65miCaNDCG-Z2mKHAcnzZizeU0tonu267VQUQabDV-qGbkYZASOaoYdUg4ACdCTAeutxmcJzcjzACgg=w1000-rw",
+                "https://lh3.googleusercontent.com/CPDICNqJBycpucHv_C36rRm5bw7s-_nbvkScQouXVpvrYnlc860YPqTEaJwwkxZcX44Te6wP1W0VhrAWJ0CfM52olxgQip5IvQ=w1000-rw",
+                "https://lh3.googleusercontent.com/vx6k8v28OBkAudYk_bD9sG5zjaU9bQZEGHe7ywIyb_SIiE5ejy7qAKrMaMpVLETRJrrBfh0VzItRThtDe41YqzdWHHhlyx4=w1000-rw",
+                "https://lh3.googleusercontent.com/o12CcJjHQrUsYs5yhUg-EV_NhIRGPA613TQLZo6LtLaoB46PkS66veGrsZhSrUAYPE3ftEKjAbxYuwthjMWgGb0SLb3C3aU=w1000-rw",
+                "https://lh3.googleusercontent.com/mTDqDBEPlHOs6hFLlgi5yhwADXm5ruljz2dnWjXpGtsP5xaQhZ4xDnjcQh_2IZL2hDyDcpuMjfb6jMvoScGQZiXioIOhpW19Ow=w1000-rw",
+                "https://lh3.googleusercontent.com/UgBQRd-2Oo6Mi9ZNHgEueX0HdgGm-jepT72B1j4gS-rTAIGrLgx-JArI0l9ze2pJWeKSXgqwSwNhpBQJaMuOB63-Clp6FfAW=w1000-rw"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Laptop ASUS TUF Gaming FX506LH- HN002T ( 15.6' Full HD/Intel Core i5-10300H/8GB/512GB SSD/NVIDIA GeForce GTX 1650/Windows 10 Home 64-bit/2.3kg)",
+            "price": "19.990.000đ",
+            "discountPrice": "20.490.000đ",
+            "discount": "2%",
+            "gift": [
+                "https://lh3.googleusercontent.com/8ID_TJiaE6lxjCUClu05nNjr-KBN0kjf2rs2sAkDuXn8WQofoEl2M8R6VjdGQ1YIW2qf_1sZwrCjQ-6hsA",
+                "https://lh3.googleusercontent.com/pABKMunuEataCnPuhBhogJzZ_wQ69kFSfT2U8tT4L5Xq2LUkgjGuuamKoSX0DVafkW3a3am0MpDCPqNOxQ"
+            ],
+            "image": "https://lh3.googleusercontent.com/Vphvm8fXrrb_aFhRfAJR3Q7Mfh3xgo6UW3DJlfL7brswucYmnZPVvD0dSEdJHulR-qJ8A7gANfrm_Kbgw3l3cJqTRqKSoZzJ",
+            "image-full": [
+                "https://lh3.googleusercontent.com/Vphvm8fXrrb_aFhRfAJR3Q7Mfh3xgo6UW3DJlfL7brswucYmnZPVvD0dSEdJHulR-qJ8A7gANfrm_Kbgw3l3cJqTRqKSoZzJ=w1000-rw",
+                "https://lh3.googleusercontent.com/MM3G143sInfw5hjhmUR7JK-_qQfG8sMG9_eZS-XIHyW2T7QpCHRK2W3zb2Q2WLaPvig3aR_cUQuLN6dSMjuog3UlYT47NnB6=w1000-rw",
+                "https://lh3.googleusercontent.com/Nnn7pSjXx6aZK7Pww6a3wheSaZ2pUTGCZwyL1_Wtwr82r1nCFFKm_9z-YtgXkNBT1ThVWxRQ8tKdx3QIQMJ025VB_eXwDLo=w1000-rw",
+                "https://lh3.googleusercontent.com/y7U4NVQvo9gLSkcnMfWUtuROJ6eMWlVukYYuajUyxsX7MJ-9GKwfqemwM4BZfT8-QGfsAQNSSgZGYS4kvcmNd_L4Y-Me9R0i=w1000-rw",
+                "https://lh3.googleusercontent.com/8Eae96_hsMs5MrA-C-VGAPOQXQ8i1P2mJVE2Ztb9qnNItp7BI-E3v4tNYT8i-4rygsFJmB10jQcNLyOMqVpGKYP4NpdDlYQU=w1000-rw",
+                "https://lh3.googleusercontent.com/gfUVFYhDF68jzw4ij2ZCpkE7NCQGAANxUkNQtjf93Wv-aTm_t7bPxngfOBmVUsotlePkPvubvN5ZnKgattlGoZhdsn1EMZPD=w1000-rw",
+                "https://lh3.googleusercontent.com/Zw2O5DaE4QgLMk1kUdfoPpJNYZ5hY-5zdQzXjslIgZyM3J7a5vn2qLMtXmHNezor-9P4PZ0X0NvK-rbeSdX_b_hHFti8fY0v=w1000-rw"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Laptop ASUS TUF Gaming FA506IU AL127T ( 15.6' Full HD/ 144Hz/AMD Ryzen 7 4800H/8GB/512GB SSD/NVIDIA GeForce GTX 1660Ti/Windows 10 Home SL 64-bit/2.3kg)",
+            "price": "25.390.000đ",
+            "discountPrice": "26.990.000đ",
+            "discount": "6%",
+            "gift": [
+                "https://lh3.googleusercontent.com/8TYtx-F0wLPEsufDd-N2y4txkDy3dxxjipjA6k5DjccQhwtdK_6Mx0YPuSUZF3bOEGG5-hP8-MFNReb4X0k",
+                "https://lh3.googleusercontent.com/Iz12vfXqgTg5pi9bet4qclbtbwTB3TFIValC8W2pvmlGHnCZ937GjdJVnfARkopEtmAfJBNvDzpIC-wNPaggiyrmcdpcogD3"
+            ],
+            "image": "https://lh3.googleusercontent.com/luTZtvbZUeQvaqUo7s-racBmMuwJus2FYcbbQ06m39pzc31jmCiBFqiBCWdBn3RogHRiGhXKRDQk8uINWg",
+            "image-full": [
+                "https://lh3.googleusercontent.com/luTZtvbZUeQvaqUo7s-racBmMuwJus2FYcbbQ06m39pzc31jmCiBFqiBCWdBn3RogHRiGhXKRDQk8uINWg=w1000-rw",
+                "https://lh3.googleusercontent.com/WTzbXi44211_Q2pprWfC3r0ClVhXv2nI4loEhFSwzzmxS-oz9u4xjHcu7OVJLxn0kkfgAWflKBZG5Bjxs78=w1000-rw",
+                "https://lh3.googleusercontent.com/O10q4TpwGSise080RpxxYVS-qrpnQak0sn1Se4eR1sUBChAie_g5sTidPuOlBGxl-oR_1ApJuFat-YYWxivs=w1000-rw",
+                "https://lh3.googleusercontent.com/w6C-WoiZLWnr-U1IykqmCOgF4W13tAvUFegP8t-X3lxzkwU2VqTU78FCx8fGnCtTRnn84rQLVvdGnxbQvg=w1000-rw",
+                "https://lh3.googleusercontent.com/3q7IIsLfSxPt1WiMpRnaiHGatKSmcwo7itJPhTCwUROeqOlXeIRdFwSSMzWf4vq5Dbx4cvelqlISvLZs=w1000-rw",
+                "https://lh3.googleusercontent.com/EVSEU9kX6S22Ne8Spuk3sBccp9sq1rddsqwVKbNuh291qXsJePkLkoH677HngsKhveyPN1FS70AS4FfDr_U=w1000-rw",
+                "https://lh3.googleusercontent.com/c7Kyf4NTJiqvqWVsrKb_D2njfuhD7PApojdrScIXpXxvJBt7pcoJMgtvHKWcdnlercX3UNzyofZmgZovMDCr=w1000-rw"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Laptop ASUS Zenbook UX425EA BM113T ( 14' Full HD/Intel Core i7-1165G7/16GB/512GB SSD/Windows 10 Home 64-bit/1.2kg)",
+            "price": "27.790.000đ",
+            "discountPrice": "28.990.000đ",
+            "discount": "4%",
+            "gift": [
+                "https://lh3.googleusercontent.com/8ID_TJiaE6lxjCUClu05nNjr-KBN0kjf2rs2sAkDuXn8WQofoEl2M8R6VjdGQ1YIW2qf_1sZwrCjQ-6hsA",
+                "https://lh3.googleusercontent.com/pABKMunuEataCnPuhBhogJzZ_wQ69kFSfT2U8tT4L5Xq2LUkgjGuuamKoSX0DVafkW3a3am0MpDCPqNOxQ"
+            ],
+            "image": "https://lh3.googleusercontent.com/cvRzbOMIHA212yLg2dmaXrznV9-KxplrkRmYEAMC0m3E5EiIAtE3q4CFzRsxFhFlb8f1CzAgDfQdBHzTDlyvb17fVT3idsci",
+            "image-full": [
+                "https://lh3.googleusercontent.com/cvRzbOMIHA212yLg2dmaXrznV9-KxplrkRmYEAMC0m3E5EiIAtE3q4CFzRsxFhFlb8f1CzAgDfQdBHzTDlyvb17fVT3idsci=w1000-rw",
+                "https://lh3.googleusercontent.com/DlbiMxzgNF3o6K3IWhJIlQhX_2R5KhPgKfN7NvlBxOT-btA45CU2s_tk2dKVtguW_gYT6qgJsz4XAXS_-htVSDCGhcA7QCXC=w1000-rw",
+                "https://lh3.googleusercontent.com/JS_5cVX_TPY-mw1iOBzrrV9DYmC98tg9FRhPcX3BhULRVAnyFzTuc4QRMSXFHYItw063ZMLKqGXE9VHob4b1c71twAkCuNE=w1000-rw",
+                "https://lh3.googleusercontent.com/v7clSOj7ysQF3_B9_w8LoYVkPg073zxrmOl51MwtkhXb6db8awb6s0VqVXSWLaffb6lGlN63j-dW_Soxbfk0SmL8NCbx0MjS=w1000-rw",
+                "https://lh3.googleusercontent.com/OAlUKQXbf0Kpj--LGBxYZiGgX84C6SjJ02linBebC8D5cisURT4ELGdKGViUpzehN-gPGo2vAa8mGrHbREmGp5zcaefVFwrkXg=w1000-rw",
+                "https://lh3.googleusercontent.com/DwEh3Or6mjozVU1kL35GdxJFUBnXHec2mM1MgnIIUwFE6hpney6NEZ8LqDhA4ve7w85YHBxGKMk6h2A91V_L9mvKfhMhFoU0=w1000-rw",
+                "https://lh3.googleusercontent.com/U8QMv5391UD4G0MPMr_tlCGboNOxdN5WgI20sAn1JCTyexrrHh3icm4umzXcTTItsgQXDc019tc-8ZvXNQz6pEcDhpCBi6RXKA=w1000-rw"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Laptop ASUS Vivobook S433EA- AM440T ( 14' Full HD/Intel Core i5-1135G7/8GB/512GB SSD/Windows 10 Home 64-bit/1.4kg)",
+            "price": "18.490.000đ",
+            "discountPrice": "18.990.000đ",
+            "discount": "3%",
+            "gift": [
+                "https://lh3.googleusercontent.com/8ID_TJiaE6lxjCUClu05nNjr-KBN0kjf2rs2sAkDuXn8WQofoEl2M8R6VjdGQ1YIW2qf_1sZwrCjQ-6hsA",
+                "https://lh3.googleusercontent.com/pABKMunuEataCnPuhBhogJzZ_wQ69kFSfT2U8tT4L5Xq2LUkgjGuuamKoSX0DVafkW3a3am0MpDCPqNOxQ"
+            ],
+            "image": "https://lh3.googleusercontent.com/UjC-bwSqEzAjoI0iE9mSLx_hyzhU0RtzHwMXYLMQzbvUbB0e8jW489xNByQeFZpqpX7MN8_9n6w7GH6KTZ8biIFDtiPfkkyL",
+            "image-full": [
+                "https://lh3.googleusercontent.com/UjC-bwSqEzAjoI0iE9mSLx_hyzhU0RtzHwMXYLMQzbvUbB0e8jW489xNByQeFZpqpX7MN8_9n6w7GH6KTZ8biIFDtiPfkkyL=w1000-rw",
+                "https://lh3.googleusercontent.com/PeoW7QWL-p84lNob1h7IMLCE_29y4lA2pbwp-9mZ82n62jYx97BlqA7iM0h2DMfQjWOkRBy0L4UdrY6CnrPtPTVa1Jlt4l1C=w1000-rw",
+                "https://lh3.googleusercontent.com/xaDAGX0ndNYAleRYnGsADd9YdQxp1EanKEnKvt7mtml-9-tCiX_ot5nSkK2YsjcmKr8RAiC_aQc5Qpv5nGJPLbPm4O_wTb4=w1000-rw",
+                "https://lh3.googleusercontent.com/Di5UcxQy2i6k3zyODBwy4JuqIqDjk2nLMy0JRwLwTk8lOHC8BD4Ngr8hCvz9eIv9Iood4wU3tnRJksdoXcdPjD8cbR6MjrA=w1000-rw",
+                "https://lh3.googleusercontent.com/6fv1khIklfbUnugHiOISf1ocKGSAu3G0CpiCfQ_kvBGB5OXKpB33LNFyklJY5aSViPGGP_qo0ACxu5LT0jKhhtdPFa5Zpktfhg=w1000-rw",
+                "https://lh3.googleusercontent.com/fsy67uBCNynz6gGlVKTxdK10fkEsLW19tT4KF8mNfyxeZORISEkKj8Da15tv3FcolzuspRWOUR0YZWMy2U-CT1VIMVIotmk1IQ=w1000-rw",
+                "https://lh3.googleusercontent.com/WUlVN17iprT2CON4Z__zHAer5J33OrO2s4N_53OPLgOsesrvhDLqEg6OAojxc_igJlkK-aUvX0fDl3U8Wsx2ILJnclkbheVKCg=w1000-rw"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Laptop ASUS Vivobook X415MA- BV087T ( 14' HD/Intel Celeron N4020/4GB/256GB SSD/Windows 10 Home 64-bit/1.5kg)",
+            "price": "6.890.000đ",
+            "discountPrice": false,
+            "discount": false,
+            "gift": [
+                "https://lh3.googleusercontent.com/8ID_TJiaE6lxjCUClu05nNjr-KBN0kjf2rs2sAkDuXn8WQofoEl2M8R6VjdGQ1YIW2qf_1sZwrCjQ-6hsA",
+                "https://lh3.googleusercontent.com/pABKMunuEataCnPuhBhogJzZ_wQ69kFSfT2U8tT4L5Xq2LUkgjGuuamKoSX0DVafkW3a3am0MpDCPqNOxQ"
+            ],
+            "image": "https://lh3.googleusercontent.com/t_Zlgj0VCcYYxkKDfnh7n9uZCI32ma-2oQqHiWQFAOEBZuO41KxydlWIgFwJZpqSXbfpqFRa8txAVMnP9ImDNxWq-h5qFqj43A",
+            "image-full": [
+                "https://lh3.googleusercontent.com/t_Zlgj0VCcYYxkKDfnh7n9uZCI32ma-2oQqHiWQFAOEBZuO41KxydlWIgFwJZpqSXbfpqFRa8txAVMnP9ImDNxWq-h5qFqj43A=w1000-rw",
+                "https://lh3.googleusercontent.com/PdCA9n61aFO4yAIuhvj-kKndFK952ztTO8lmuhQ8mXESoz7JVVJhW1MjhS8K_27MpRI9v1oGx0CFv4QOwmOJxkVBnFdso_ON=w1000-rw",
+                "https://lh3.googleusercontent.com/t_oDwf9JE16sDG0_8ZdxpbtnMmG8POthalM12fbC0bHLwlMvcxNDt_Vv7Bj5pR0f7OigLa9wJVazqp8wlOofyS6Pq22euBfI=w1000-rw",
+                "https://lh3.googleusercontent.com/3YXv0NsplpgA5FkIo3ppHbeVg0A3-hjEaLQXxskZK739LZdL5rm9I5Rm_vtwQZV87G-d8ezU5dVERzYKOEpdb02YphGuxWvE=w1000-rw",
+                "https://lh3.googleusercontent.com/86iDozDhcYB-ZuRzzYnXPRAvlDweDU0OnU3D0TNmKYZKMOLCeqIe0euZxjGawrliMml__hCPh8W3lnVpEbF1QgiN5XtPJLfR=w1000-rw",
+                "https://lh3.googleusercontent.com/o6q_2LkYgJmKVEVJN-W7LvvSnsoglfs9cWzLOYV74OyK2qBXaQauRj9umdsP8-E2pzcAErthFrjzbtVHS4nWfsQURxXMbS5d=w1000-rw",
+                "https://lh3.googleusercontent.com/ZDsc7zzGN2fOPUyeHxRue5Pst-WWD_GrY_KT0g0UbbDWLZMUJqhxa6GhNiwE9v-kROHpTYBseLZfZKTn06No2lt4U60WN34=w1000-rw"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Laptop ACER Acer Aspire 3 A315-57G-31YD NX.HZRSV.008 ( 15.6' Full HD/Intel Core i3-1005G1/4GB/256GB SSD/NVIDIA GeForce MX330/Windows 10 Home 64-bit/1.9kg)",
+            "price": "11.690.000đ",
+            "discountPrice": "11.999.000đ",
+            "discount": "3%",
+            "gift": [
+                "https://lh3.googleusercontent.com/8ID_TJiaE6lxjCUClu05nNjr-KBN0kjf2rs2sAkDuXn8WQofoEl2M8R6VjdGQ1YIW2qf_1sZwrCjQ-6hsA",
+                "https://lh3.googleusercontent.com/pABKMunuEataCnPuhBhogJzZ_wQ69kFSfT2U8tT4L5Xq2LUkgjGuuamKoSX0DVafkW3a3am0MpDCPqNOxQ"
+            ],
+            "image": "https://lh3.googleusercontent.com/Xg65g5ACvDuYssAX3xUQgdDiHF-kbvwwEWb-h7hCNxcY1iC6gUeLWXwv0Shz1nHTF70cTg96N0T9o4YNOfEaQsU_1g4GSkU",
+            "image-full": [
+                "https://lh3.googleusercontent.com/Xg65g5ACvDuYssAX3xUQgdDiHF-kbvwwEWb-h7hCNxcY1iC6gUeLWXwv0Shz1nHTF70cTg96N0T9o4YNOfEaQsU_1g4GSkU=w1000-rw",
+                "https://lh3.googleusercontent.com/oQUxwYcKAazP9wW-9ATa7wSZMZz-JOjWJAMklndYIn-WSRIiwYD34KRcxx9HFqakH_AdgqRVJWd51WvhasEd8rPBwiQU41lQ=w1000-rw",
+                "https://lh3.googleusercontent.com/Ed384IwsuErzU6nx5s8N0MjOxbMUVISCWJoPvU0eqyO-tF0aeAESGU2FTJREZv1uGNPLS-DdyLSATSpRlCAS2tBN-ysZivOD=w1000-rw",
+                "https://lh3.googleusercontent.com/pINOVdMguTDTKC_RD9e2jPRhV7BM60UbyAGRcWv40_t1Y7cotBuCTmxydGFKAbtkhQ0c8xUAgQcqaZ-ruT0TafdfxuNT1sc=w1000-rw",
+                "https://lh3.googleusercontent.com/qwtn04oz8k2lASWJjuEFC-NEyOChn1z0Jj_lKPMsZQqcH3I_Kgz7s_ehyTP2-nz9-47jxJfHwXdsTq9okz188BxBRk_TzFgW=w1000-rw",
+                "https://lh3.googleusercontent.com/fKIp-Ftu8xzZtSmnI_PX3KJariKa0iX3WpPHyG0Z2hW_KCPZLdD6KLMncXjawvIYguVDAjnd1ycoF8jT_NUn3t-1HOYMBi8=w1000-rw",
+                "https://lh3.googleusercontent.com/0tZTj6VoMlT2hFeTk0Nd02TdmQAFqCD7_dsFKDIrHIHen3-RGPdUgsxDSF8kv4gyZZlL07kKi-z7uTkdS5dNrQQviaCbh84=w1000-rw",
+                "https://lh3.googleusercontent.com/QzG3uSblBrPua3T7ctPCq20J6ebeZz07d-4brYiSPmslUQHdydiayS7uWbu1zxlJhtZCAbFxdilbxRkH6b1VEhFQ-Q2UfYUwLA=w1000-rw"
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Laptop Acer Swift 3 SF314-42-R5Z6 (NX.HSESV.001) (14' FHD/R5 4500U/8GB/512GB SSD/AMD Radeon/Win10/1.2kg)",
+            "price": "17.490.000đ",
+            "discountPrice": "18.190.000đ",
+            "discount": "4%",
+            "gift": [
+                "https://lh3.googleusercontent.com/8ID_TJiaE6lxjCUClu05nNjr-KBN0kjf2rs2sAkDuXn8WQofoEl2M8R6VjdGQ1YIW2qf_1sZwrCjQ-6hsA",
+                "https://lh3.googleusercontent.com/sRrkC0bNhsCfYVwOkHi0HfAyTQGDVKprknZ4MHSZlUmkF5nogbuFXsA46Lhm5eqLyMdqWMNdkbZhsMnHv4s"
+            ],
+            "image": "https://lh3.googleusercontent.com/NOkugoe9f49NATmfEgf5IGRu_upu0WBgetq9JQyWNJFxRB8ogOzrhfR7pYE4kNNBOEZgoyh36Sx5Sy7p4cqk",
+            "image-full": [
+                "https://lh3.googleusercontent.com/NOkugoe9f49NATmfEgf5IGRu_upu0WBgetq9JQyWNJFxRB8ogOzrhfR7pYE4kNNBOEZgoyh36Sx5Sy7p4cqk=w1000-rw",
+                "https://lh3.googleusercontent.com/Tn7XuO7AesSpFjoR5gBsSZ2H2twrl5TGfcj5kG3Q0atICX5c9sHJ48Wd4qK45F9US1HwbMx6KiTjw6CK0Vw=w1000-rw",
+                "https://lh3.googleusercontent.com/M_4zKYs0BkKCeQ1_dAgDKq6w2m8dlv1dIufYQ5wbpKSlauKSYftSuNIx6AXAnsmrfNRTwYBvTHnWSpdVeA=w1000-rw",
+                "https://lh3.googleusercontent.com/KDOhjF5TkotgQ8E9xDx4Q4LwcLZmx9p5Z2-tIbXWH3puGPhhukBygYzw4o9AHAP3DS1lNHtrACfeMncQa5o=w1000-rw",
+                "https://lh3.googleusercontent.com/zxXnFJIHepDZh2N5AnYkzUcKr7y3j9Nm1n8ZxuzKRSTrdJvp6UPs9zeBpTVxOVt4pVKX9kUT3OiOy0BLTpU=w1000-rw",
+                "https://lh3.googleusercontent.com/Tz_fo7Yu3c9mYNFbWip9kcgD7GZy0IPOrpjeZqEmCOJ6jos9iQ7QYvNze_13BUr4J1Y5SmvAYQ3rnZaEVTgj=w1000-rw",
+                "https://lh3.googleusercontent.com/92D8EQeWZ3dqp51_DYTiJSCJt9hkItHagc69bCOZvA2lfNPhikZeHtSJZlAgcNgAP0LTOvVdSSM7SXotJQ=w1000-rw",
+                "https://lh3.googleusercontent.com/mKb5OTMOvfrELfxG4XJFCQO4oYz7c8HmIwFw77G0_EYDFgWAYc6PG6xN9zQrHIsNV4ftENQYzmekBX-6MK4=w1000-rw"
+            ]
+        }
+    ]
+}

@@ -10,7 +10,7 @@ const Header = (props) => {
         <div className="header">
             <BannerAds />
             <Contact />
-            <Toolbar />
+            {props.isShowToolbar ? <Toolbar /> : null}
         </div>
     );
 }
